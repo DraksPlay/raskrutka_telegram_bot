@@ -1,0 +1,247 @@
+{
+    "telegram/views": {
+        "platform": "telegram",
+        "name": "Просмотры",
+        "min": 100,
+        "max": 50000,
+        "price": 390
+    },
+    "telegram/views_5": {
+        "platform": "telegram",
+        "name": "Просмотры на 5 постов",
+        "min": 10,
+        "max": 100000,
+        "price": 970
+    },
+    "telegram/views_10": {
+        "platform": "telegram",
+        "name": "Просмотры на 10 постов",
+        "min": 10,
+        "max": 50000,
+        "price": 1850
+    },
+    "telegram/views_20": {
+        "platform": "telegram",
+        "name": "Просмотры на 20 постов",
+        "min": 10,
+        "max": 50000,
+        "price": 3560
+    },
+    "telegram/views_50": {
+        "platform": "telegram",
+        "name": "Просмотры на 50 постов",
+        "min": 10,
+        "max": 50000,
+        "price": 6120
+    },
+    "telegram/views_100": {
+        "platform": "telegram",
+        "name": "Просмотры на 100 постов",
+        "min": 10,
+        "max": 50000,
+        "price": 11590
+    },
+    "telegram/followers": {
+        "platform": "telegram",
+        "name": "Подписчики Живые Русские",
+        "min": 100,
+        "max": 20000,
+        "price": 8000
+    },
+    "telegram/followers_ru": {
+        "platform": "telegram",
+        "name": "Подписчики | Русские | Качественные",
+        "min": 50,
+        "max": 10000,
+        "price": 29000
+    },
+    "instagram/followers_ru": {
+        "platform": "instagram",
+        "name": "Подписчики Русские",
+        "min": 10,
+        "max": 10000,
+        "price": 15000
+    },
+    "instagram/followers_ru_alive": {
+        "platform": "instagram",
+        "name": "Подписчики Русские - Живые",
+        "min": 10,
+        "max": 5000,
+        "price": 46000
+    },
+    "instagram/followers_bots": {
+        "platform": "instagram",
+        "name": "Подписчики Боты",
+        "min": 10,
+        "max": 100000,
+        "price": 3000
+    },
+    "instagram/followers_usa": {
+        "platform": "instagram",
+        "name": "Подписчики США",
+        "min": 10,
+        "max": 5000,
+        "price": 57000
+    },
+    "instagram/likes": {
+        "platform": "instagram",
+        "name": "Лайки",
+        "min": 10,
+        "max": 50000,
+        "price": 500
+    },
+    "instagram/likes_ru": {
+        "platform": "instagram",
+        "name": "Лайки Русские",
+        "min": 10,
+        "max": 50000,
+        "price": 1400
+    },
+    "instagram/likes_alive": {
+        "platform": "instagram",
+        "name": "Лайки Живые",
+        "min": 10,
+        "max": 10000,
+        "price": 9800
+    },
+    "instagram/views": {
+        "platform": "instagram",
+        "name": "Просмотры - Видео - TV - Reels",
+        "min": 10,
+        "max": 10000000,
+        "price": 80
+    },
+    "instagram/views_stats": {
+        "platform": "instagram",
+        "name": "Просмотры - Видео + Охват и статистика",
+        "min": 100,
+        "max": 2500,
+        "price": 1500
+    },
+    "instagram/views_stats_visit": {
+        "platform": "instagram",
+        "name": "Просмотры - Видео + Охват и статистика",
+        "min": 100,
+        "max": 500000,
+        "price": 2700
+    },
+    "instagram/views_stream": {
+        "platform": "instagram",
+        "name": "Просмотры - Прямой эфир",
+        "min": 20,
+        "max": 10000,
+        "price": 65000
+    },
+    "vk/followers_offers": {
+        "platform": "vk",
+        "name": "Подписчики - Офферные",
+        "min": 10,
+        "max": 20000,
+        "price": 21800
+    },
+    "vk/followers_top": {
+        "platform": "vk",
+        "name": "Подписчики - Качественные",
+        "min": 10,
+        "max": 10000,
+        "price": 24000
+    },
+    "vk/followers_alive": {
+        "platform": "vk",
+        "name": "Подписчики - Живые",
+        "min": 10,
+        "max": 50000,
+        "price": 27000
+    },
+    "vk/followers_ru": {
+        "platform": "vk",
+        "name": "Подписчики - Русские",
+        "min": 10,
+        "max": 10000,
+        "price": 40000
+    },
+    "vk/friends": {
+        "platform": "vk",
+        "name": "Друзья",
+        "min": 10,
+        "max": 5000,
+        "price": 18000
+    },
+    "vk/friends_alive": {
+        "platform": "vk",
+        "name": "Друзья - Живые",
+        "min": 10,
+        "max": 50000,
+        "price": 25000
+    },
+    "vk/friends_ru": {
+        "platform": "vk",
+        "name": "Друзья - Русские",
+        "min": 10,
+        "max": 10000,
+        "price": 40000
+    },
+    "vk/likes_fast": {
+        "platform": "vk",
+        "name": "Лайки - Быстрые",
+        "min": 10,
+        "max": 10000,
+        "price": 24000
+    },
+    "vk/likes_group": {
+        "platform": "vk",
+        "name": "Лайки - Группа/Паблик",
+        "min": 20,
+        "max": 15000,
+        "price": 9000
+    },
+    "vk/likes_alive": {
+        "platform": "vk",
+        "name": "Лайки - Живые",
+        "min": 10,
+        "max": 5000,
+        "price": 13500
+    },
+    "vk/likes_alive_ru": {
+        "platform": "vk",
+        "name": "Лайки - Живые - Россия",
+        "min": 10,
+        "max": 25000,
+        "price": 18000
+    },
+    "vk/views_group": {
+        "platform": "vk",
+        "name": "Просмотры для группы/паблика",
+        "min": 1000,
+        "max": 50000,
+        "price": 4000
+    },
+    "vk/views_profile": {
+        "platform": "vk",
+        "name": "Просмотры для группы/профиля",
+        "min": 50,
+        "max": 300000,
+        "price": 5000
+    },
+    "vk/views_clips": {
+        "platform": "vk",
+        "name": "Просмотры - Клипы",
+        "min": 100,
+        "max": 1000000,
+        "price": 2400
+    },
+    "vk/repost_fast": {
+        "platform": "vk",
+        "name": "Репосты - Быстрые",
+        "min": 10,
+        "max": 50000,
+        "price": 23000
+    },
+    "vk/repost_alive": {
+        "platform": "vk",
+        "name": "Репосты - Живые",
+        "min": 10,
+        "max": 5000,
+        "price": 24000
+    }
+}
